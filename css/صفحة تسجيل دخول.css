@@ -74,7 +74,7 @@ ul{
     transition: var(--main-transition-duration);
     margin-top: 50px;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 19px;
 }
 .log-in input[type="submit"]:hover{
     color: white;
